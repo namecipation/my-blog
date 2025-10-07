@@ -1,16 +1,21 @@
 About Me
 ========
 
+.. image:: _static/me_with_suit.png
+   :alt: Description of image
+   :width: 300px
+   :align: left
+
 Hi, I'm **Pannawat Whangvisith**, Junior Electrical Engineering student at Chulalongkorn University  
 with a major in electronics and control system. Studying in 
 class out of curiosity and building practical skills through projects outside the classroom.
 Interested in Running, Traveling, all kind of outdoors activities, and anything related to Maths in general. 
-
+You can check more about me and my work experience here.
 -----
 
 **Work Experience**
 -----------------------
-.. list-table:: Work Experience
+.. list-table::
    :widths: 30 50 20
    :header-rows: 1
 
@@ -20,9 +25,10 @@ Interested in Running, Traveling, all kind of outdoors activities, and anything 
    * - Thai Rail Tech Co., Ltd.
      - Project Engineer Intern
      - May 2025 – Present 
+     
 **Education**
 -----------------------
-.. list-table:: Education
+.. list-table::
    :widths: 30 50 20
    :header-rows: 1
 
@@ -42,11 +48,6 @@ Interested in Running, Traveling, all kind of outdoors activities, and anything 
 
 
 
-
-
-**Related Coursework**
------------------------
-
 **Related Coursework**
 -----------------------
 
@@ -64,29 +65,10 @@ Interested in Running, Traveling, all kind of outdoors activities, and anything 
      - - Advanced Embedded System
        - Integrated Circuit Design
        - Fundamental of Power Electronics
-   * - Mathematical Foundations
-     - - Functional and Real Analysis
+   * - Mathematical Background
+     - - Functional and Mathematical Analysis
        - Random Process
-**Project**
------------------------
 
-🏆 *1st Runner-Up* Chula Legal Tech– Year 6 Innovation Project by *Tilleke & Gibbins*  
-
- • Awarded ฿42,000 for a 3-month project developing an innovative legal tech product.  
-
- • Focus: Factory compliance and document management system (DMS).  
-
- • Role: Designed and implemented a working prototype using Streamlit to streamline legal workflows in industrial settings.
-
-🏆 *2nd Runner-Up* – Mitr Phol AI Hackathon by *Mitr phol sugar corp. ltd* 
-
- • Awarded ฿25,000 for a 2-month project tackling real-world business problems in the sugar industry.  
-
- • Focus: Sugar pricing strategy and hedging risk management.  
-
- • Approach: Leveraged Data Science techniques to build actionable insights and decision support tools for Mitr Phol.
-
-----
 
 Stack/Skills
 =====

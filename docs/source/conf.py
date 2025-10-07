@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'no-procrastination'
+project = 'My Portfolio Website'
 copyright = '2025, Pannawat Whangvisith'
 author = 'Pannawat Whangvisith'
 release = '2025'
@@ -14,7 +14,12 @@ release = '2025'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    "myst_parser",                  # ใช้ Markdown ได้
+    "sphinx.ext.autodoc",           # ดึง docstring อัตโนมัติ
+    "sphinx.ext.napoleon",          # รองรับ Google/NumPy docstring
+    "sphinx.ext.viewcode",          # ลิงก์ไปยังโค้ดต้นฉบับ
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -26,3 +31,5 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+

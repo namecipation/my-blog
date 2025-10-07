@@ -12,21 +12,21 @@ documentation for details.
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Personal
 
    About
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Projects
 
-   Page1
-   Page2
+   3_award_in_1_year
+   connecting raspberry pi without html cable
    Page3
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: My Publication
 
    My_publication
